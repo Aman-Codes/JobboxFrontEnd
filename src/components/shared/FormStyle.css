@@ -1,0 +1,54 @@
+.Google {
+    padding: 0.4em;
+    font-size: 1.4em;
+    letter-spacing: 0.1em;
+}
+
+.FaceBook {
+    padding: 0.4em;
+    font-size: 1.4em;
+    letter-spacing: 0.1em;
+}
+
+.ForgotPassword {
+    padding-top: 0.3em;
+    padding-bottom: 0em;
+}
+
+.FormSubmit {
+    margin-bottom: 1em;
+}
+
+.labelCenter {
+    margin-left: 20%;
+}
+.login-with {
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+@media only screen and (max-width: 890px) {
+    .login-with {
+        font-size: 12px;
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .Google, .FaceBook, .ForgotPassword {
+        width:80%;
+        font-size: 0.5em;
+        padding: 0;
+        letter-spacing: 0;
+    }
+}
+
+@media only screen and (max-width: 330px) {
+    .Google, .FaceBook, .ForgotPassword {
+        width:80%;
+        font-size: 0.3em;
+        padding: 0;
+        letter-spacing: 0;
+    }
+}
+

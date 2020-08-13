@@ -1,0 +1,56 @@
+.login-backgorund {
+  background-image: url(../../../assets/background.jpg);
+}
+.requiredfield:after {
+  content:"*";
+  color: red;
+}
+
+.form-control {
+  width: 60% !important;
+  margin-left: 1em;
+}
+
+.card-body {
+  width: 70%;
+  margin: inherit;
+}
+
+h5 {
+    margin-left: 1em;
+}
+
+.educationFormBackground {
+    background-image: url(../../../assets/library.jpg);
+    width: 100vw !important;
+    height: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.achievementFormBackground { 
+    background-image: url(../../../assets/cliff3.jpg);
+    width: 100vw !important;
+    height: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.workExFormBackground { 
+    background-image: url(../../../assets/pattern3.png);
+    /* width: 100vw !important;
+    height: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: top; */
+}
+.row {
+    font-family: 'Sahitya', serif;
+}
+
+.card {
+    border-radius: 50px !important;
+    box-shadow: 0px 10px #3333, 10px 0px 5px #3333331a;
+    /* box-shadow: 0 10px 25px rgba(240, 112, 0, 0.23), 0 6px 0px rgba(240, 112, 0, 0.5) */
+}
+

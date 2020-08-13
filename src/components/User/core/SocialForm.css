@@ -1,0 +1,92 @@
+.social .fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.social .fa:hover {
+    opacity: 0.7;
+    color: white;
+    text-decoration: none;
+}
+
+.social .fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.social .fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+.fa-dribbble {
+  background: #ea4c89;
+  color: white;
+}
+
+.fa-vimeo {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-github {
+    background: #24292e;
+    color: white;
+}
+
+.fa-stack-overflow {
+    background: #F48024;
+    color: white;
+}
+
+.fa-quora {
+    background: #b92b27;
+    color: white;
+}
+
+.fa-behance {
+    background: #053eff ;
+    color: white;
+}
+
+.title {
+    font-size: 1.5em;
+    display: inline;
+    color: #333;
+}
+
+
